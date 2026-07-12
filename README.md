@@ -35,6 +35,7 @@ Contributions welcome! Please read the [contribution guidelines](#contributing) 
 - [DWG Version Checker](https://cadguide.tools/toolbox/dwg-version-checker) — Client-side binary parser that reads the first 6 bytes of a DWG file header to detect the internal AutoCAD format version (e.g., AC1032). No upload needed.
 - [Viewport Scale Converter](https://cadguide.tools/toolbox/viewport-scale-factor-converter) — Calculate and convert viewport scale factors for paper space layouts.
 - [K-Factor Calculator](https://cadguide.tools/toolbox/k-factor-calculator) — Sheet metal bend allowance and K-factor calculator for mechanical engineers.
+- [Concrete Calculator Hub](https://concreteestimatorhub.com/) — Free concrete volume, bag coverage, slab, footing, and ready-mix cost calculators for civil/CAD project planning.
 - [A360 Viewer](https://viewer.autodesk.com/) — Autodesk's free online viewer for 2D and 3D design files (DWG, RVT, STEP, etc.).
 - [IFC++ Open Viewer](http://ifcquery.com/) — Free IFC model viewer for BIM files.
 
