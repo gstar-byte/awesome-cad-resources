@@ -11,7 +11,9 @@ Contributions welcome! Please read the [contribution guidelines](#contributing) 
 ## Contents
 
 - [Software Comparison & Selection](#software-comparison--selection)
-- [Free Online Tools](#free-online-tools)
+- [Free Online Tools & Utilities](#free-online-tools--utilities)
+- [Engineering & Structural Calculators](#engineering--structural-calculators)
+- [Troubleshooting Wizards & Diagnostic Checklists](#troubleshooting-wizards--diagnostic-checklists)
 - [Keyboard Shortcuts & Cheat Sheets](#keyboard-shortcuts--cheat-sheets)
 - [File Format References](#file-format-references)
 - [Learning & Tutorials](#learning--tutorials)
@@ -30,13 +32,28 @@ Contributions welcome! Please read the [contribution guidelines](#contributing) 
 - [G2 CAD Software Reviews](https://www.g2.com/categories/cad) — Verified user reviews across major CAD platforms.
 - [Capterra CAD Directory](https://www.capterra.com/cad-software/) — CAD software listings with user ratings and pricing filters.
 
-## Free Online Tools
+## Free Online Tools & Utilities
 
-- [DWG Version Checker](https://cadguide.tools/toolbox/dwg-version-checker) — Client-side binary parser that reads the first 6 bytes of a DWG file header to detect the internal AutoCAD format version (e.g., AC1032). No upload needed.
+- [DWG Version Checker](https://cadguide.tools/toolbox/dwg-version-checker) — Client-side binary parser that reads the first 6 bytes of a DWG file header to detect the internal AutoCAD format version (e.g., AC1032 for AutoCAD 2018-2026). 100% private, no upload needed.
 - [Viewport Scale Converter](https://cadguide.tools/toolbox/viewport-scale-factor-converter) — Calculate and convert viewport scale factors for paper space layouts.
-- [K-Factor Calculator](https://cadguide.tools/toolbox/k-factor-calculator) — Sheet metal bend allowance and K-factor calculator for mechanical engineers.
 - [A360 Viewer](https://viewer.autodesk.com/) — Autodesk's free online viewer for 2D and 3D design files (DWG, RVT, STEP, etc.).
 - [IFC++ Open Viewer](http://ifcquery.com/) — Free IFC model viewer for BIM files.
+
+## Engineering & Structural Calculators
+
+- [2D Truss & Frame Analyzer](https://cadguide.tools/calculators) — Structural nodal displacement, member tension/compression, and reaction solver.
+- [RC Beam Section Calculator](https://cadguide.tools/calculators) — Reinforced concrete bending moment capacity and shear reinforcement checks.
+- [Moving Load & Girder Analysis](https://cadguide.tools/calculators) — Standard truck axle loading and envelope moment calculations.
+- [K-Factor & Bend Deduction Calculator](https://cadguide.tools/toolbox/k-factor-calculator) — Sheet metal flat pattern layout and bend allowance calculator.
+- [Weld Joint Strength Calculator](https://cadguide.tools/toolbox/weld-strength-calculator) — Fillet and butt weld permissible stress according to AWS standards.
+- [Psychrometric HVAC Chart & Duct Sizer](https://cadguide.tools/calculators) — Moist air state calculation and airflow velocity duct friction loss.
+- [CAD Plot Scale Converter](https://cadguide.tools/calculators) — Architectural and engineering imperial/metric scale factor reference.
+
+## Troubleshooting Wizards & Diagnostic Checklists
+
+- [AutoCAD Startup Crash & Fatal Error Wizard](https://cadguide.tools/toolbox) — Interactive diagnostic tree for graphics driver crashes, bad registry keys, and corrupt acad.lsp files.
+- [Revit Model Sync & Worksharing Conflict Wizard](https://cadguide.tools/toolbox) — Resolve central model sync locks and nested family errors.
+- [SolidWorks License & Large Assembly Performance Wizard](https://cadguide.tools/toolbox) — Diagnose FLEXlm network seat errors and assembly rebuild lag.
 
 ## Keyboard Shortcuts & Cheat Sheets
 
