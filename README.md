@@ -80,6 +80,7 @@ Contributions welcome! Please read the [contribution guidelines](#contributing) 
 - [AutoCAD Official Tutorials](https://www.autodesk.com/support/technical/article/caas/tsarticles/ts/3fGLE3QkunMZjE0dVGfQ06.html) — Autodesk's beginner-to-advanced learning paths.
 - [LinkedIn Learning CAD Courses](https://www.linkedin.com/learning/topics/cad) — Professional video courses for AutoCAD, Revit, SolidWorks, and more.
 - [GrabCAD Tutorials](https://grabcad.com/tutorials) — Community-contributed tutorials for various CAD platforms.
+- [SolidCraft CAD](https://solidcraftcad.com/) — Guide to SolidCraft, the open-source parametric 3D CAD app in Rust: browser use, downloads, and MCP setup.
 - [SolidWorks MySolidWorks](https://my.solidworks.com/training) — Official SolidWorks self-paced training portal.
 
 ## Communities & Forums
